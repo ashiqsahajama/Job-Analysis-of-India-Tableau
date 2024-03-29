@@ -1,9 +1,7 @@
 # Analysis-of-house-sales-in-King-County-Washington-on-Tableau
 
-• Created a comprehensive dashboard for the examination of residential property sales in King County, spanning
-from 1900 to 2015
+• An extensive Tableau dashboard for analysing Jobs in various states of India
 
-• Implemented various filters and graphs to assess property values based on factors such as the construction year, dimensions,
-structural state, scenic vistas the dispersion of price ranges, and as well as the distribution of bedrooms and bathrooms
+• Implemented various filters and graphs to data visualizations, including graphs, to investigate average salaries trends over states, job role variations, and the distribution of salaries for each role
 
-• Link to the project: https://public.tableau.com/app/profile/rakesh.j.v/viz/KingCountyWashingtonHouseSales_16915159638600/Dashboard
+• Link to the project: (https://public.tableau.com/app/profile/mohammed.ashiq.hyderali/viz/JobsAnalysisofIndia/Dashboard2)
