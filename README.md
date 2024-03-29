@@ -1,4 +1,4 @@
-# Analysis-of-house-sales-in-King-County-Washington-on-Tableau
+# Analysis-of-job-market-of-India-on-Tableau
 
 • An extensive Tableau dashboard for analysing Jobs in various states of India
 
